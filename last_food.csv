@@ -1,0 +1,215 @@
+,name,representative,address,lat,lng,english_name,english_representative,english_address,picture_name,service_option,star_rate,operation_time,telephone_number,english_operation_time,english_service_option
+1,서린낙지,낙지볶음,서울특별시 종로구 종로1가 24 ,37.5709593,126.9798759,Sore octopus.,Stir-fried octopus.,"19, Jong-ro, Jongno-gu, Seoul, Republic of Korea",matzip1,"매장 내 식사, 테이크아웃",3.9,매일 오전 11:30~오후 10:00,02-735-0670,Every day from 11:30am to 10:00pm ,"In-store meals, To go"
+2,달인꽈배기,꽈배기,서울특별시 서대문구 영천동 69-3,37.5712096,126.9607313,Master twisted bread stick.,Twisted bread stick.,"4, Yeongcheonsijang-gil, Seodaemun-gu, Seoul, Republic of Korea",matzip2,테이크아웃,4,"월요일 - 금요일 오전 7:00~오후 3:30
+토요일 오전 7:00~오전 12:00
+일요일 휴무일",02-313-5419,"Mon. - Fri. 7:00am - 3:30pm.
+Sat. from 7am to 12am.
+Closed on Sun.",To go
+3,라면 땡기는 날,짬뽕라면,서울특별시 종로구 화동 138-21,37.5792833,126.9822188,The day I crave ramen.,Spicy Seafood Noodles.,"82, Yulgok-ro 3-gil, Jongno-gu, Seoul, Republic of Korea",matzip3,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.1,매일 오전 9:30~오후 7:30,02-733-3330,Every day From 9:30am to 7:30pm,"In-store meals, To go, No delievery"
+4,닭칼원조집,닭한마리,서울특별시 중구 중림동 110-3,37.5601579,126.9678207,Original chicken knife restaurant.,One chicken.,"110-3, Jungnim-dong, Jung-gu, Seoul, Republic of Korea",matzip4,"매장 내 식사, 테이크아웃",4.1,"월요일 - 금요일 오전 11:00~오후 10:00
+토요일, 일요일 휴무일",02-392-1134,"Mon. - Fri. 11:00am - 10:00pm
+Closed on Sat. and Sun.","In-store meals, To go"
+5,호남식당,쫄갈비,서울특별시 중구 충무로4가 127-16,37.5622044,126.9956455,Honam Restaurant.,Jjolgalbi.,"9, Toegye-ro 41-gil, Jung-gu, Seoul, Republic of Korea",matzip5,"매장 내 식사, 배달이 안 됨",3.5,"월요일 - 금요일 오후 12:00~10:30
+토요일 오후 12:00~10:00
+일요일 휴무일",02-2273-1348,"Mon. - Fri. 12:00pm - 10:30pm.
+Sat. 12:00pm~10pm.
+Closed on Sun.","In-store meals, No delievery"
+6,장원북어국,북어국,서울특별시 영등포구 여의도동 226-36,37.5210579,126.9297678,Jangwon dried pollack soup.,Dried pollack soup.,"226-36, Yeouido-dong, Yeongdeungpo-gu, Seoul, Republic of Korea",matzip6,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.1,"월요일 - 토요일 오전 6:30~오후 3:00
+일요일 휴무일",02-784-0639,"Mon. - Sat. 6:30am - 3:00pm
+Closed on Sun.","In-store meals, To go, No delievery"
+7,중림장,도가니탕,서울특별시 중구 중림동 468,37.5602339,126.9676919,Jungnimjang.,Dog knee soup.,"459-1, Cheongpa-ro, Jung-gu, Seoul, Republic of Korea",matzip7,"매장 내 식사, 테이크아웃",4,매일 오전 8:00~오후 10:00,02-392-7743,Every day from 8:00am to 10:00pm,"In-store meals, To go"
+8,삼숙이라면,파채라면,서울특별시 종로구 인사동 220-2,37.5715638,126.9856175,Samsuk ramen,seasoned green onion ramen,"30, Jong-ro 11-gil, Jongno-gu, Seoul, Republic of Korea",matzip8,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.7,"월요일 - 토요일 오전 8:30~오후 9:00
+일요일 휴무일",02-720-9711,"Mon. - Sat. 8:30am - 9:00pm
+Closed on Sun.","In-store meals, To go, No delievery"
+9,노량진수제비,멸치수제비,서울특별시 동작구 노량진로 184,37.5130951,126.9469753,Noryangjin Pocha Sujebi.,Anchovy Sujebi.,"184, Noryangjin-ro, Dongjak-gu, Seoul, Republic of Korea",matzip9,"매장 내 식사, 테이크아웃",리뷰없음,매일 12:00 - 04:00,02-812-1359,Every day from 12:00 to 04:00,"In-store meals, To go"
+10,찬양집,바지락칼국수,서울특별시 종로구 돈의동 27,37.5727867,126.9902449,Praise book.,Kalguksu with clams.,"5, Donhwamun-ro 11da-gil, Jongno-gu, Seoul, Republic of Korea",matzip10,"매장 내 식사, 배달이 안 됨",3.9,"월요일 - 토요일 오전 10:00~오후 9:00
+일요일 휴무일",02-743-1384,"Mon. - Sat. 10:00am - 9:00pm
+Closed on Sun.","In-store meals, No delievery"
+11,풍남원조골뱅이,골뱅이,서울특별시 중구 을지로3가 350-1,37.5656427,126.989916,Pungnam Wonjo Golbaengnam Original Marrow.,whelk,"50-1, Supyo-ro, Jung-gu, Seoul, Republic of Korea",matzip11,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.8,"월요일 - 금요일 오후 4:00~오전 12:00
+일요일 휴무일",02-2265-2336,"Mon. - Fri. 4:00pm - 12:00am
+Closed on Sun.","In-store meals, To go, No delievery"
+12,명동교자 본점,칼국수,서울특별시 중구 명동2가 25-2,37.5625266,126.985609,Myeongdong Gyoja Main Store.,Kalguksu,"29, Myeongdong 10-gil, Jung-gu, Seoul, Republic of Korea",matzip13,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.2,"금요일 - 수요일 오전 10:30~오후 9:00
+목요일 오전 9:00~오후 9:00",02-776-5348,"Fri. - Wed. 10:30am - 9:00pm
+Thu, 9:00am~ 9:00pm","In-store meals, To go, No delievery"
+13,한옥집,김치찌개,서울특별시 서대문구 냉천동 178,37.5672361,126.9643216,Hanok house.,Kimchi stew,"14, Tongil-ro 9an-gil, Seodaemun-gu, Seoul, Republic of Korea",matzip14,"매장 내 식사, 테이크아웃, 배달 서비스",3.8,매일 오전 10:00~오후 10:00,02-362-8653,Every day from 10:00am to 10:00pm,"In-store meals, To go, Delivery service"
+14,광화문집,김치찌개,서울특별시 종로구 당주동 43,37.5712095,126.9749615,Gwanghwamun house.,Kimchi stew,"12, Saemunan-ro 5-gil, Jongno-gu, Seoul, Republic of Korea",matzip15,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.6,매일 오전 9:00~오후 10:00,02-739-7737,Every day from 9:00am to 10:00pm,"In-store meals, To go, No delievery"
+15,메밀꽃필무렵,메밀,서울특별시 종로구 통의동 7-23,37.5788633,126.9736867,Buckwheat flowers.,Buckwheat,"31-1, Hyoja-ro, Jongno-gu, Seoul, Republic of Korea",matzip16,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.3,"월요일 - 금요일 오후 12:00~2:00, 오후 5:00~8:00
+토요일 오후 12:00~2:00, 오후 5:00~7:00
+일요일 휴무일",02-734-0367,"Mon. - Fri. 12:00pm - 2:00pm, 5:00pm - 8:00pm
+Sat. 12:00pm~2:00pm, 5:00pm~7:00pm
+Closed on Sun.","In-store meals, To go, No delievery"
+16,긴자 바이린,돈까스,서울특별시 종로구 사간동 93,37.5775347,126.9804599,Ginza By Lynn.,Pork cutlet,"37, Yulgok-ro 1-gil, Jongno-gu, Seoul, Republic of Korea",matzip17,"매장 내 식사, 테이크아웃",4.1,"매일 오전 11:30~오후 2:30, 오후 5:30~8:45",02-734-9765,"Every day from 11:30am to 2:30pm, from 5:30pm to 8:45pm","In-store meals, To go"
+17,감촌,순두부,서울특별시 종로구 청진동 166,37.5708033,126.9798544,Gamchon.,soft tofu,"166 Cheongjin-dong, Jongno-gu, Seoul, Republic of Korea",matzip18,"매장 내 식사, 배달이 안 됨",3.6,"월요일 - 토요일 오전 9:30~오후 10:00
+일요일 휴무일",02-733-7035,"Mon. - Sat. 9:30am - 10:00pm
+Closed on Sun.","In-store meals, No delievery"
+18,브루클린 더버거 조인트,수제버거,서울특별시 서초구 반포동 551-32,37.4960698,126.9997306,Brooklyn The Burger Joint.,Handmade burger.,"51-13, Donggwang-ro 43-gil, Seocho-gu, Seoul, Republic of Korea",matzip19,"매장 내 식사, 테이크아웃",4.3,매일 오전 11:00~오후 10:00,02-533-7180,Every day from 11:00am to 10:00pm,"In-store meals, To go"
+19,외고집설렁탕,설렁탕,서울특별시 강남구 대치4동 923-22,37.5110533,127.054161,Oegojip seolleongtang (Seolleongtang.,Seolleongtang,"15, Seolleung-ro 64-gil, Gangnam-gu, Seoul, Republic of Korea",matzip20,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.1,"월요일 - 토요일 오전 11:00~오후 9:00
+일요일 휴무일",02-567-5225,"Mon. - Sat. 11:00am - 9:00pm
+Closed on Sun.","In-store meals, To go, No delievery"
+20,평래옥,평양냉면,서울특별시 중구 저동2가 18-1,37.5648739,126.9903717,Pyeongraeok.,Pyongyang naengmyeon.,"21-1, Mareunnae-ro, Jung-gu, Seoul, Republic of Korea",matzip21,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.8,"매일 오전 11:15~오후 3:30, 오후 5:00~9:30",02-2267-5892,"Every day 11:15am~3:30pm, 5:00~9:30pm","In-store meals, To go, No delievery"
+21,타지 본점,인도음식,서울특별시 중구 명동1가 1-3,37.5643209,126.9862195,The main branch in other cities.,Indian food.,"8-2, Myeongdong 11-gil, Jung-gu, Seoul, Republic of Korea",matzip22,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.1,매일 오전 11:30~오후 10:00,02-776-0677,Every day from 11:30am to 10:00pm,"In-store meals, To go, No delievery"
+22,일미식당,청국장,서울특별시 종로구 낙원동 284-6,37.5726662,126.9878079,Japanese restaurant.,Cheonggukjang,"428, Samil-daero, Jongno-gu, Seoul, Republic of Korea",matzip23,"매장 내 식사, 배달이 안 됨",4,"월요일 - 토요일 오전 11:00~오후 9:00
+일요일 휴무일",02-766-6588,"Mon. - Sat. 11:00am - 9:00pm
+Closed on Sun.","In-store meals, No delievery"
+23,하동관,곰탕,서울특별시 중구 명동1가 10-4,37.5643946,126.9850185,Hadonggwan.,Beef-bone soup,"12, Myeongdong 9-gil, Jung-gu, Seoul, Republic of Korea",matzip24,"매장 내 식사, 테이크아웃",3.7,매일 오전 7:00~오후 4:00,02-776-5656,Every day from 7:00am to 4:00pm,"In-store meals, To go"
+24,마산해물아구찜,아구찜,서울특별시 종로구 낙원동 45-3,37.5727966,126.9885677,Braised Spicy Seafood in Masan.,Steamed monkfish.,"436-1, Samil-daero, Jongno-gu, Seoul, Republic of Korea",matzip25,"매장 내 식사, 테이크아웃",4,매일 오전 11:00~오후 10:00,02-741-2109,Every day from 11:00am to 10:00pm,"In-store meals, To go"
+25,조선김밥,김밥,서울특별시 종로구 소격동 159,37.5785715,126.9821938,Joseon kimbap.,rice roll,"78, Yulgok-ro 1-gil, Jongno-gu, Seoul, Republic of Korea",matzip26,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.8,"월요일 - 토요일 오전 11:00~오후 3:00, 오후 4:30~8:00
+일요일 휴무일",02-723-7496,"Mon. - Sat. 11:00 am - 3:00 pm, 4:30 am - 8:00 pm
+Closed on Sun.","In-store meals, To go, No delievery"
+26,목멱산방,육회비빔밥,서울특별시 중구 예장동 산 5-6,37.5580879,126.9868818,Mokmyeoksanbang.,Raw beef mixed with rice,"627, Namsangongwon-gil, Jung-gu, Seoul, Republic of Korea",matzip27,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.9,매일 오전 11:00~오후 8:30,02-318-4790,Every day from 11:00am to 8:30pm,"In-store meals, To go, No delievery"
+27,이태리재,파스타,서울특별시 종로구 소격동 158-1,37.5787648,126.9817259,Italianjae.,Pasta,"74-9, Yulgok-ro 1-gil, Jongno-gu, Seoul, Republic of Korea",matzip28,"매장 내 식사, 배달이 안 됨",4.1,"화요일 - 일요일 오후 12:00~3:00, 오후 6:00~10:00
+월요일 휴무일",070-4233-6262,"Tue. - Sun. 12:00pm~3:00pm, 6:00pm~10:00pm.
+Closed on Mon.","In-store meals, No delievery"
+28,레호이,베트남쌀국수 #반미,서울특별시 용산구 이태원동 261-9,37.5431963,126.9901493,Rehoi.,Vietnamese rice noodles #Banh Mi.,"5, Sowol-ro 38ga-gil, Yongsan-gu, Seoul, Republic of Korea",matzip29,"매장 내 식사, 테이크아웃",4.1,"화요일 - 일요일 오후 12:00~3:00, 오후 5:00~10:00
+월요일 휴무일",070-4242-0426,"Tue. - Sun. 12:00pm~3:00pm, 5:00pm~10:00pm.
+Closed on Mon.","In-store meals, To go"
+29,멘야하나비,일본라면,서울특별시 송파구 송파동 57,37.5109726,127.1077723,Menya Hanabi.,Japanese ramen.,"38, Baekjegobun-ro 45-gil, Songpa-gu, Seoul, Republic of Korea",matzip30,"매장 내 식사, 테이크아웃",4.2,"화요일 - 금요일 오전 11:30~오후 2:00, 오후 6:00~9:00
+토요일 - 일요일 오전 11:30~오후 2:30, 오후 5:30~8:30
+월요일 휴무일",070-8959-1108,"Tue. - Fri. 11:30am - 2:00pm, 6:00pm - 9:00pm
+Sat. - Sun. 11:30am - 2:30pm, 5:30pm - 8:30pm
+Closed on Mon.","In-store meals, To go"
+30,명동돈가스,돈가스,서울특별시 중구 명동1가 59-13,37.5639929,126.9835683,Myeongdong pork cutlet.,Pork Cutlet,"8, Myeongdong 3-gil, Jung-gu, Seoul, Republic of Korea",matzip31,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.9,매일 오전 11:00~오후 9:00,02-775-5300,Every day from 11:00am to 9:00pm,"In-store meals, To go, No delievery"
+31,대복집,된장전골,서울특별시 종로구 적선동 13-2,37.5761724,126.9738585,Daebokjip.,Soybean paste hot pot.,"137-9, Sajik-ro, Jongno-gu, Seoul, Republic of Korea",matzip32,"매장 내 식사, 배달이 안 됨",4.3,"월요일 - 금요일 오전 11:40~오후 2:00, 오후 6:00~9:00
+토요일 - 일요일 휴무일",02-736-8029,"Mon. - Fri. 11:40am - 2:00pm, 6:00pm - 9:00pm
+Closed on Sat. and Sun.","In-store meals, No delievery"
+32,크래프트루,맥주 안주,서울특별시 종로구 익선동 166-57,37.5730458,126.9894524,Craft Roo.,A snack for beer.,"17-7, Supyo-ro 28-gil, Jongno-gu, Seoul, Republic of Korea",matzip33,"매장 내 식사, 테이크아웃",4.1,"월요일 - 금요일 오후 3:00~9:00
+토요일- 일요일 오후 12:00~9:00",070-7808-0001,"Mon. - Fri. 3:00pm~9:00pm
+Sat. - Sun. 12:00pm~9:00pm","In-store meals, To go"
+33,어바웃진스,바비큐,서울특별시 종로구 사직로8길 24 내수동 71,37.573978,126.971081,About Jin's,Barbecue.,"24, Sajik-ro 8-gil, Jongno-gu, Seoul, Republic of Korea",matzip34,"매장 내 식사, 테이크아웃",4.3,"월요일 - 금요일 오전 11:30~오후 2:00, 오후 5:00~10:00
+토요일 오전 12:00~오후 9:00
+일요일 휴무일",02-737-0927,"Mon. - Fri. 11:30am - 2:00pm, 5:00pm -10:00pm
+Sat. from 12:00am to 9:00pm.
+Closed on Sun.","In-store meals, To go"
+34,사랑방참숯화로구이,삼겹살,서울특별시 용산구 신흥로36길 4,37.5463549,126.981772,Charcoal from Sarangbang.,Pork belly,"4, Sinheung-ro 36-gil, Yongsan-gu, Seoul, Republic of Korea",matzip35,"매장 내 식사, 배달이 안 됨",4.4,매일 오후 16:00 ~ 22:30,02-774-5950,Every day from 16:00 to 22:30pm,"In-store meals, No delievery"
+35,고봉삼계탕,삼계탕,서울특별시 강남구 봉은사로 524 삼성동 159,37.5125144,127.0599445,Gobong Samgyetang.,Samgyetang,"524, Bongeunsa-ro, Gangnam-gu, Seoul, Republic of Korea",matzip36,"매장 내 식사, 테이크아웃",4.1,매일 오전 10:30~오후 10:00,02-551-0080,Every day from 10:30am to 10:00pm,"In-store meals, To go"
+36,종로진낙지,산낙지 철판볶음,서울특별시 종로구 수표로 122 낙원동 139,37.5721087,126.9891051,Jongnojin Octopus.,Stir-fried raw octopus.,"122, Supyo-ro, Jongno-gu, Seoul, Republic of Korea",matzip37,"매장 내 식사, 테이크아웃",3.7,매일 오전 11:00~오후 10:00,02-742-0621,Every day from 11:00am to 10:00pm,"In-store meals, To go"
+37,남도분식,빨콩떡볶이 #상추튀김,서울특별시 종로구 옥인길 33 누상동 52-2,37.5809032,126.9669254,Namdo Snack.,Red bean tteokbokki #Fried lettuce.,"33, Ogin-gil, Jongno-gu, Seoul, Republic of Korea",matzip38,"매장 내 식사, 테이크아웃",3.8,매일 오전 11:30 ~ 오후 8:30,02-723-7775,Every day from 11:30am to 8:30pm,"In-store meals, To go"
+38,오모리찌개,오모리찌개 #옛날 손짜장,서울특별시 송파구 송파대로 471 석촌동 183-3,37.5080312,127.1040756,Omori stew.,Omori stew #Old-fashioned black bean noodles.,"471, Songpa-daero, Songpa-gu, Seoul, Republic of Korea",matzip39,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.7,매일 24시간 영업,02-2203-0067,Every day open 24 hours a day,"In-store meals, To go, No delievery"
+39,창화당,모둠만두 #떡볶이,서울특별시 종로구 수표로28길 23 익선동 174 1층,37.5729148,126.9898228,Changhwadang.,Group dumplings #Tteokbokki.,"23, Supyo-ro 28-gil, Jongno-gu, Seoul, Republic of Korea",matzip40,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.8,매일 오전 11:30~오후 9:00,070-8825-0908,Every day from 11:30am to 9:00pm,"In-store meals, To go, No delievery"
+40,은호식당,꼬리토막,서울특별시 중구 남창동 50-43,37.5589755,126.9770366,Eunho's restaurant.,A piece of tail.,"28-4, Namdaemunsijang 4-gil, Jung-gu, Seoul, Republic of Korea",matzip41,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.7,"월요일 - 금요일 오전 6:00~오후 9:00
+토요일 - 일요일 오전 6:00~오후 4:00",02-753-3263,"Mon. - Fri. 6:00am - 9:00pm
+Sat. - Sun. 6:00am - 4:00pm","In-store meals, To go, No delievery"
+41,청진옥,해장국,서울특별시 종로구 종로1가 24,37.5716911,126.9794619,Cheongjinok.,Hangover soup,"19, Jong-ro, Jongno-gu, Seoul, Republic of Korea",matzip42,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.8,매일 24시간 영업,02-735-1690,Every day open 24 hours a day,"In-store meals, To go, No delievery"
+42,강서면옥,평양냉면,서울특별시 중구 서소문동 120-15,37.5620353,126.9739145,Gangseo Myeonok.,Pyongyang naengmyeon.,"35, Sejong-daero 11-gil, Jung-gu, Seoul, Republic of Korea",matzip43,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.5,매일 오전 11:00~오후 10:00,02-752-1945,Every day from 11:00am to 10:00pm,"In-store meals, To go, No delievery"
+43,시추안하우스,사천요리,서울특별시 강남구 삼성동 154-11,37.5096878,127.0582138,Shichuan House.,Sichuan food.,"29, Teheran-ro 87-gil, Gangnam-gu, Seoul, Republic of Korea",matzip45,"매장 내 식사, 테이크아웃",3.9,매일 오전 11:30~오후 10:00,02-508-1320,Every day ffrom 11:30am to 10:00pm,"In-store meals, To go"
+44,대갈곱창&막창,돼지막창구이,서울특별시 송파구 송파동 39-9,37.5099014,127.1089643,Grilled tripe and entrails.,Grilled pork entrails.,"21-1, Baekjegobun-ro 45-gil, Songpa-gu, Seoul, Republic of Korea",matzip46,"매장 내 식사, 테이크아웃",3.9,매일 오후 16:00~오전 01:00,02-425-0892,Every day from 16:00pm to 01:00am,"In-store meals, To go"
+45,바오차이,딤섬,서울특별시 중구 을지로 2가 148-28,37.5658431,126.9887144,Baochai.,Dimsum,"148-28, Euljiro 2-ga, Jung-gu, Seoul, Republic of Korea",matzip47,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.9,"월요일 - 금요일 오전 11:30~오후 3:00, 오후 5:00~9:30
+토요일  - 일요일 오전 11:00~오후 2:30, 오후 5:00~8:30",02-6031-0107,"Mon. - Fri. 11:30am - 3:00pm, 5:00pm - 9:30pm
+Sat. - Sun. 11:00am - 2:30pm, 5:30pm - 8:30pm","In-store meals, To go, No delievery"
+46,두툼,삼겹살,서울특별시 중구 중림동 200,37.5582293,126.9664628,Thick.,Pork belly,"10, Jungnim-ro, Jung-gu, Seoul, Republic of Korea",matzip48,"매장 내 식사, 배달이 안 됨",4.3,"월요일 - 금요일 오후 2:00~오전 9:00
+토요일 - 일요일 오후 12:00~9:00",02-392-8592,"Mon. - Fri. 2:00pm~9:00am
+Sat. - Sun. 12:00pm~9:00pm","In-store meals, No delievery"
+47,원조남산왕돈까스,왕돈가스,서울특별시 중구 예장동 8-53,37.5560558,126.9795066,Original Namsan king pork cutlet.,Big pork cutlet.,"107, Sopa-ro, Jung-gu, Seoul, Republic of Korea",matzip49,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.1,매일 오전 9:30~오후 11:00,02-755-3370,Every day from 9:30am to 11:00pm,"In-store meals, To go, No delievery"
+48,메이탄,양장피,서울특별시 종로구 교남동 50-1,37.5685081,126.9646006,Maytan.,Sheepskin.,"17, Gyeonggyojang 1-gil, Jongno-gu, Seoul, Republic of Korea",matzip51,"매장 내 식사, 테이크아웃",4,매일 오전 11:00~오후 9:30,02-738-6686,Every day from 11:00am to 9:30pm,"In-store meals, To go"
+49,곰바위,곱창,서울특별시 강남구 삼성1동 76-10,37.514848,127.058769,Bear rock.,intestine,"10, Yeongdong-daero 115-gil, Gangnam-gu, Seoul, Republic of Korea",matzip53,"매장 내 식사, 테이크아웃",4.1,매일 오전 11:00~오후 10:00,02-511-0068,Every day from 11:00am to 10:00pm,"In-store meals, To go"
+50,워킹온더클라우드,유럽식,서울특별시 영등포구 여의도동 60,37.5193776,126.9402103,Working on the cloud.,European style.,"50, 63-ro, Yeongdeungpo-gu, Seoul, Republic of Korea",matzip54,"매장 내 식사, 테이크아웃이 안 됨, 배달이 안 됨",4.5,"매일 오전 11:30~오후 3:00, 오후 5:30~오전 12:00",02-789-5904,"Every day from 11:30am to 3pm, from 5:30am to 12:00am","In-store meals, No to go, No delievery"
+51,카페뎀셀브즈,디저트,서울특별시 종로구 관철동 5-8,37.5691757,126.9879382,Cafe Dem Celves.,Dessert,"388, Samil-daero, Jongno-gu, Seoul, Republic of Korea",matzip55,"매장 내 식사, 테이크아웃",4.2,매일 오전 10:00~오후 11:00,02-2266-5947,Every day from 10:00am to 11:00pm,"In-store meals, To go"
+52,백리향,일반중식,서울특별시 영등포구 여의도동 60,37.5195933,126.9396932,Baengli scent.,Normal Chinese food.,"50, 63-ro, Yeongdeungpo-gu, Seoul, Republic of Korea",matzip56,"매장 내 식사, 배달이 안 됨",4.4,"매일 오전 11:30~오후 3:00, 오후 5:30~10:00",02-789-5741,"Every day from 11:30am to 3pm, from 5:30pm to 10:00pm","In-store meals, No delievery"
+53,슈치쿠,일식,서울특별시 영등포구 여의도동 60,37.5194647,126.9398326,Shuchiku.,an eclipse of the sun,"50, 63-ro, Yeongdeungpo-gu, Seoul, Republic of Korea",matzip57,"매장 내 식사, 배달이 안 됨",4.4,"매일 오전 11:30~오후 3:00, 오후 5:30~10:00",02-789-5751,"Every day from 11:30am to 3pm, from 5:30pm to 10:00pm","In-store meals, No delievery"
+54,품 서울,모던한식,서울특별시 용산구 후암동 358-17,37.5490343,126.9834104,Poom Seoul.,Modern Korean food.,"49, Duteopbawi-ro 60-gil, Yongsan-gu, Seoul, Republic of Korea",matzip58,"매장 내 식사, 배달이 안 됨",4.3,"월요일 - 토요일 오후 12:00~3:00, 오후 6:00~10:00
+일요일 휴무일",02-777-9007,"Mon. - Sat. 12:00pm~3:00pm, 6:00~10:00pm
+Closed on Sun.","In-store meals, No delievery"
+55,대성집,도가니탕,서울특별시 종로구 행촌동 209-36,37.5727479,126.9608911,A great house.,Dog knee soup.,"16-11, Tongil-ro 12-gil, Jongno-gu, Seoul, Republic of Korea",matzip59,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.2,"월요일 - 토요일 오전 11:00~오후 3:00
+일요일 휴무일",02-735-4259,"Mon. - Sat. 11:00am - 3:00pm
+Closed on Sun.","In-store meals, To go, No delievery"
+56,비채나,모던한식,서울특별시 용산구 한남동 740-1,37.5265765,127.0009039,Or beef.,Modern Korean food.,"267, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",matzip60,"매장 내 식사, 테이크아웃이 안 됨, 배달이 안 됨",4.4,"매일 오전 11:30~오후 2:30, 오후 6:00~10:00",02-1811-1870,"Every day from 11:30am to 2:30pm, from 6:00pm to 10:00pm","In-store meals, No to go, No delievery"
+57,두가헌,유럽식,서울특별시 종로구 사간동 109,37.5770902,126.9802848,Dugaheon.,European style.,"109, Sagan-dong, Jongno-gu, Seoul, Republic of Korea",matzip61,"매장 내 식사, 배달이 안 됨",4.4,"월요일 - 토요일 오후 12:00~2:30, 오후 6:00~10:00
+일요일 휴무일",02-3210-2100,"Mon. - Sat. 12:30pm~2:30pm, 6:00pm~10:00pm
+Closed on Sun.","In-store meals, No delievery"
+58,더레스토랑,프랑스식,서울특별시 종로구 소격동 59-1,37.5808101,126.9803885,The Restaurant.,French style.,"54, Samcheong-ro, Jongno-gu, Seoul, Republic of Korea",matzip62,"매장 내 식사, 배달이 안 됨",4.2,"매일 오후 12:00~3:00, 오후 6:00~10:00",02-735-8441,"Every day from 12pm to 3pm, from 6:00pm to 10:00pm","In-store meals, No delievery"
+59,유 유안,베이징덕# 딤섬# 광둥식요리# 중식,서울특별시 종로구 새문안로 97 당주동 29,37.5704383,126.9755391,Four Seasons Hotel Seoul Yuyuan.,Beijing duck# dim sum# Cantonese food# Chinese food.,"97, Saemunan-ro, Jongno-gu, Seoul, Republic of Korea",matzip64,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.5,"월요일 - 금요일 오전 11:30~오후 2:30,  오후 17:30~21:30
+토요일 - 일요일 오전 11:30~오후 2:30",02-6388-5500,"Mon. - Fri. 11:30am - 2:30pm,  4:30pm - 9:30pm
+Sat. - Sun. 11:30am - 2:30pm","In-store meals, To go, No delievery"
+60,보름쇠,바비큐,서울특별시 강남구 삼성동 155-5 ,37.5092786,127.056619,A full-time servant.,Barbecue.,"36, Teheran-ro 81-gil, Gangnam-gu, Seoul, Republic of Korea",matzip65,"매장 내 식사, 테이크아웃이 안 됨, 배달이 안 됨",4.1,"매일 오전 11:30~오후 3:00, 오후 5:00~10:00",02-569-9967,"Every day from 11:30am to 3:00pm, from 5:00pm to 10:00pm","In-store meals, No to go, No delievery"
+61,올드나이브스,스테이크,서울특별시 용산구 용산동2가 27-5,37.5430796,126.9875277,Old Knights.,Steak,"4, Sinheung-ro 11-gil, Yongsan-gu, Seoul, Republic of Korea",matzip66,"매장 내 식사, 배달이 안 됨",4.4,"월요일 - 금요일 오후 6:00~오전 2:00
+토요일 - 일요일 오후 5:00~오전 2:00",070-7763-4001,"Mon. - Fri. 6:00pm~ 2:00am
+Sat. - Sun. 5:00pm~ 2:00am","In-store meals, No delievery"
+62,침니펍,생크림 굴뚝빵,서울특별시 종로구 통의동 35-4,37.5766177,126.974033,Chimney pub.,Fresh cream chimney bread.,"7-1, Hyoja-ro, Jongno-gu, Seoul, Republic of Korea",matzip67,"매장 내 식사, 매장 밖 수령, 비대면 배달",4.3,"월요일 - 금요일 오전 11:30~오후 10:00
+토요일 - 일요일 오후 2:30~10:00",010-4668-7987,"Mon. - Fri. 11:30am - 10:00pm
+Sat. - Sun. 2:30pm~10pm","In-store meals, get soemthing Out of the store, Non-Contact delivery"
+63,더풍년,모듬해물,서울특별시 서대문구 통일로 189-1 영천동 323,37.5697551,126.9619288,The Poongnyeon.,assorted seafood.,"189, Tongil-ro, Seodaemun-gu, Seoul, Republic of Korea",matzip68,매장 내 식사,4.2,"월요일 - 토요일 오후 5:00~오전 1:00
+일요일 휴무일",0507-1325-5069,"Mon. - Sat. 5:00pm - 1:00am
+Closed on Sun.",In-store meals
+64,미자식당,명란돈가쓰,서울특별시 송파구 송파동 51-9,37.5098232,127.1102439,Mija Restaurant.,Pollack roe pork cutlet.,"14, Ogeum-ro 18-gil, Songpa-gu, Seoul, Republic of Korea",matzip69,"매장 내 식사, 테이크아웃",3.4,"화요일 - 일요일 오전 11:30~오후 2:30, 오후 5:30~8:30
+월요일 휴무일",050-71432-0814,"Tue. - Sun. 11:30am-2:30pm, 5:30pm-8:30pm.
+Closed on Mon.","In-store meals, To go"
+65,뽀빠이분식,떡볶이# 라면# 쫄면,서울특별시 송파구 신천동 7,37.5175877,127.1014249,Popeye Snack.,Tteokbokki# ramen# jjolmyeon.,"104, Olympic-ro 35-gil, Songpa-gu, Seoul, Republic of Korea",matzip70,"매장 내 식사, 테이크아웃",3.1,매일 오전 11:00~오후 9:00,02-416-7235,Every day from 11:00am to 9:00pm,"In-store meals, To go"
+66,익선잡방,마스카포네 치즈 오믈렛,서울특별시 종로구 수표로 28길 17-21,37.5733535,126.9894178,Iksunjibbang.,Mascapone cheese omelet.,"17-21, Supyo-ro 28-gil, Jongno-gu, Seoul, Republic of Korea",matzip72,"매장 내 식사, 테이크아웃",4.2,"월요일 오전 11:00~오후 9:00
+화요일 - 금요일 오전 11:30~오후 4:00, 오후 5:30~9:30
+토요일 - 일요일 오전 11:30~오후 9:30",02-765-3418,"Mon. from 11:00am to 9:00pm
+Tue. - Fri. 11:30am - 4:00pm, 5:30pm - 9:30pm
+Sat. - Sun. 11:30am~ 9:30pm","In-store meals, To go"
+67,빅가이즈크랩,갈릭랍스터,서울특별시 송파구 올림픽로 240,37.5122407,127.0978978,Big Guys Crab.,Garlic lobster.,"240, Olympic-ro, Songpa-gu, Seoul, Republic of Korea",matzip73,매장 내 식사,4,매일 오전 11:30~오후 11:00,02-2143-1775,Every day from 11:30am to 11:00pm,In-store meals
+68,The Lounge Park Hyatt Seoul,당근 초콜릿 빙수,서울특별시 강남구 테헤란로 606 대치동 995-14,37.5085791,127.0641676,Park Hyatt Seoul The Lounge.,Carrot chocolate shaved ice.,"606, Teheran-ro, Gangnam-gu, Seoul, Republic of Korea",matzip74,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.3,매일 오전 9:00~오후 10:00,02-2016-1205,Every day from 9:00am to 10:00pm,"In-store meals, To go, No delievery"
+69,마키보이,샌드마키,서울특별시 영등포구 여의 대방로 383 ,37.5193175,126.9314199,Maki boy.,Sandmaki.,"383, Yeouidaebang-ro, Yeongdeungpo-gu, Seoul, Republic of Korea",matzip75,"매장 내 식사, 테이크아웃",3.9,"월요일 - 금요일 오전 7:30~오후 8:00
+토요일 오전 9:00~오후 8:00
+일요일 휴무일",02-780-7535,"Mon. - Fri. 7:30am-8:00pm
+Sat. 9:00am to 8:00pm
+Closed on Sun.","In-store meals, To go"
+70,꼼모아,비프 웰링턴,서울특별시 용산구 신흥로 56,37.5434828,126.9876897,CommeDes.,Beef Wellington.,"56, Sinheung-ro, Yongsan-gu, Seoul, Republic of Korea",matzip77,"매장 내 식사, 배달이 안 됨",4.3,"월요일 - 금요일 오후 6:00~10:00
+토요일 - 일요일 오후 12:00~3:00, 오후 6:00~11:00",02-6217-5252,"Mon. - Fri. 6:00pm~10:00pm
+Sat. - Sun. 12:00pm~3:00pm, 6:00~11:00pm","In-store meals, No delievery"
+71,도동집,도동탕면# 도동비면,서울특별시 용산구 후암로 80 후암동 439-13,37.5529597,126.9766843,Dodongjip.,Dodongtangmyeon. Dodongbimyeon.,"80, Huam-ro, Yongsan-gu, Seoul, Republic of Korea",matzip81,"매장 내 식사, 배달이 안 됨",4,"월요일 - 토요일 오전 11:30~오후 10:00
+일요일 오후 3:30~8:30",02-772-9463,"Mon. - Sat. 11:30am - 10:00pm
+Sun. 3:30pm - 8:30pm","In-store meals, No delievery"
+72,따빠마드레,해산물 빠에야,서울특별시 종로구 신문로 2가 1-251,37.5730175,126.9691026,Dda-bba-madre.,Seafood paella.,"43, Gyeonghuigung-gil, Jongno-gu, Seoul, Republic of Korea",matzip82,"매장 내 식사, 배달이 안 됨",4,"월요일 - 토요일 오전 11:30~오후 11:00
+일요일 휴무일",02-722-4199,"Mon. - Sat. 11:30am - 11:00pm
+Closed on Sun.","In-store meals, No delievery"
+73,르블란서,로스티드 치킨,서울특별시 종로구 수표로 28길 30,37.5728584,126.9902061,Leblancer.,Roasted chicken.,"30, Supyo-ro 28-gil, Jongno-gu, Seoul, Republic of Korea",matzip85,"매장 내 식사, 배달이 안 됨",4.1,"월요일 - 금요일 오전 11:30~오후 11:00
+토요일 오후 12:00~10:00
+일요일 휴무일",02-766-9951,"Mon. - Fri. 11:30am - 11:00pm
+Sat. 12:00pm~10:00pm.
+Closed on Sun.","In-store meals, No delievery"
+74,오사카하루,야끼니꾸 부위별,서울특별시 송파구 올림픽로 32길 19-15,37.5147852,127.1101721,Osaka Haru.,Yakiniku part star.,"19-15, Olympic-ro 32-gil, Songpa-gu, Seoul, Republic of Korea",matzip86,"매장 내 식사, 배달이 안 됨",3.8,"화요일 - 금요일 오전 11:30~오후 3:30, 오후 5:00~10:30
+토요일 - 일요일 오전 11:30~오후 4:00, 오후 5:00~10:30
+월요일 휴무일",02-412-5388,"Tue. - Fri. 11:30am - 3:30pm, 5:30pm - 10:30pm
+Sat. - Sun. 11:30am - 4:00pm, 5:00pm - 10:30pm
+Closed on Mon.","In-store meals, No delievery"
+75,혜민당,서양배 타르트,서울특별시 중구 을지로2가 101-37,37.5664545,126.9887078,Hyemin Party.,Western pear tart.,"16-9, Samil-daero 12-gil, Jung-gu, Seoul, Republic of Korea",matzip87,"매장 내 식사, 테이크아웃, 배달이 안 됨",4.3,"월요일 - 목요일 오후 5:30 ~오전 01:00 
+금요일 - 토요일 오후 5:30 ~오전 02:00
+일요일 오후 5:00 ~오전12:30",070-4148-4242,"Mon. - Thu. 5:30am - 01:00am
+Fri. - Sat. 5:30am - 02:00am
+Sun. 5:00pm~12:30am","In-store meals, To go, No delievery"
+76,꽃지,꽃게장# 꽃게찜,서울특별시 강남구 삼성동 160-18,37.514184,127.0616079,Flower.,Crab# steamed crab.,"610, Bongeunsa-ro, Gangnam-gu, Seoul, Republic of Korea",matzip88,"매장 내 식사, 테이크아웃, 배달이 안 됨",4,"월요일 - 금요일 오전 11:00~오후 10:30
+토요일 오전 11:00~오후 9:00
+일요일 오전 12:00~오후 8:00",02-561-8788,"Mon. - Fri. 11:00am - 10:30pm
+Sat. from 11:00am to 9:00pm
+Sun. from 12:00am to 8:00pm","In-store meals, To go, No delievery"
+77,할머니 왕파전,파전,서울특별시 동작구 노량진1동 119-178,37.5113991,126.9445232,Grandmother's big green onion pancake.,Pajeon,"90, Manyang-ro, Dongjak-gu, Seoul, Republic of Korea",matzip89,"매장 내 식사, 테이크아웃",4.2,"월요일 - 금요일 오전 11:30~오후 9:30
+일요일 휴무일",02-812-4799,"Mon. - Fri. 11:30am~ 9:30pm
+Closed on Sun.","In-store meals, To go"
+78,비진도 해물뚝배기,전복 해물뚝배기,서울특별시 서대문구 합동 21-23,37.5615778,126.9671167,Bijindo seafood earthen pot.,Abalone seafood earthen pot.,"53, Seosomun-ro, Seodaemun-gu, Seoul, Republic of Korea",matzip90,"매장 내 식사, 배달이 안 됨",4.5,매일 오전 11:00~오후 10:00,02-312-2867,Every day from 11:00am to 10:00pm,"In-store meals, No delievery"
+79,고반식당,돼지고기,서울특별시 영등포구 여의대방로67길 21,37.5205089,126.929465,Goban Restaurant.,Pork,"21, Yeouidaebang-ro 67-gil, Yeongdeungpo-gu, Seoul, Republic of Korea",matzip91,"매장 내 식사, 배달이 안 됨",4,"매일 오전 12:00~오후 3:00, 오후 5:00~오전 12:00",02-782-8886,"Every day from 12:00am to 3:00pm, from 5:00pm to 12:00am","In-store meals, No delievery"
+80,만나분식,쫄볶이# 떡튀김,서울특별시 종로구 필운동 108-1,37.5773224,126.9690776,"Meet me, snack bar.",Jjolbokki# fried tteok.,"9-2, Pirundae-ro, Jongno-gu, Seoul, Republic of Korea",matzip92,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.9,매일 오전 11:30~오후 10:00,02-732-5101,Every day from 11:30am to 10:00pm,"In-store meals, To go, No delievery"
+81,붐바타 석촌점,피자#치킨,서울특별시 송파구 백제고분로 354,37.5042273,127.1056048,Boomvatar Seokchon branch.,Pizza# chicken.,"354, Baekjegobun-ro, Songpa-gu, Seoul, Republic of Korea",matzip93,"매장 내 식사, 테이크아웃, 배달 서비스",4.1,"월요일 - 토요일 오전 10:00~오후 8:00
+일요일 휴무일",02-423-0966,"Mon. - Sat. 10:00am - 8:00pm
+Closed on Sun.","In-store meals, To go, Delivery service"
+82,찰스H,bar# 칵테일# 샴페인,서울특별시 종로구 당주동29,37.5704127,126.9755172,Charles H.,Bar# cocktail# champagne.,"29, Dangju-dong, Jongno-gu, Seoul, Republic of Korea.",matzip94,"매장 내 식사, 배달이 안 됨",4.5,매일 오전 11:00~오후 10:30,02-6388-5000,Every day from 11:00am to 10:30pm,"In-store meals, No delievery"
+83,거북이슈퍼,가맥# 맥주# 쥐포,서울특별시 종로구 익선동 166-79,37.5734096,126.9894436,Turtle Super.,Gamaek# beer# dried filefish fillet.,"17-25, Supyo-ro 28-gil, Jongno-gu, Seoul, Republic of Korea",matzip95,매장 내 식사,3.3,매일 오후 5:00~10:00,010-8819-8826,Every day from 5:00pm to 10:00pm,In-store meals
+84,바이킹스워프,랍스타# 뷔페,서울특별시 송파구 신천동 29,37.5135726,127.1035428,Viking's warp.,Lobster# buffet.,"300, Olympic-ro, Songpa-gu, Seoul, Republic of Korea",matzip97,"매장 내 식사, 배달이 안 됨",4.2,"월요일 - 금요일 오후 16:00 ~오전 12:00 
+토요일 오후 2:00~오전 12:00 
+일요일 오후 2:00 - 11:00",1644-3210,"Mon. - Fri. 4:00 pm to 12:00 am
+Sat.  From 2:00 pm to 12:00 am
+Sun. 2:00pm - 11:00pm","In-store meals, No delievery"
+85,더백푸드트럭,수제버거# 파니니# 쿠바노,서울특별시 용산구 후암동 406-57 ,37.5474653,126.9839976,The Back Food Truck.,Handmade burgers# panini# and cubano.,"39, Sinheung-ro 20-gil, Yongsan-gu, Seoul, Republic of Korea",matzip98,"매장 내 식사, 테이크아웃",4,"월요일 - 금요일 오전 11:30~오후 3:30, 오후 6:00~10:00
+토요일, 일요일 오전 11:30~오후 1:30, 오후 2:00~4:00, 오후 5:30~7:30, 오후 8:00~10:00",010-7197-4448,"Mon. - Fri. 11:30am - 3:30pm, 6:00pm - 10:00pm
+Sat. and Sun. 11:30am - 1:30pm, 2:00pm - 4:00pm,
+5:30pm - 7:30pm, 8:00pm - 10:00pm","In-store meals, To go"
+86,박서방 순대국밥,순대국밥# 순대,서울특별시 강남구 삼성1동 156-5,37.5086639,127.0559972,Park Seobang Sundae Gukbap.,Sundae gukbap# sundae.,"520, Samseong-ro, Gangnam-gu, Seoul, Republic of Korea",matzip99,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.9,매일 오전 11:30~오후 10:00,02-568-9205,Every day from 11:30am to 10:00pm,"In-store meals, To go, No delievery"
+87,제르보,카페,서울특별시 송파구 신천동 29 ,37.5129202,127.1016052,Jerbo.,Cafe,"300, Olympic-ro, Songpa-gu, Seoul, Republic of Korea",matzip101,"매장 내 식사, 테이크아웃, 배달이 안 됨",3.8,"월요일 - 토요일 오전 10:00~오후 10:00
+일요일 휴무일",02-3213-2222,"Mon. - Sat. 10:00am - 10:00pm
+Closed on Sun.","In-store meals, To go, No delievery"
+88,르셰프 블루,프렌치# 레스토랑,서울특별시 서초구 방배동 837-10,37.558571,126.968669,Le Chef Blue.,French# restaurant.,"65, Seocho-daero 25-gil, Seocho-gu, Seoul, Republic of Korea",matzip104,"매장 내 식사, 배달이 안 됨",4.5,매일 오전 10:30~오후 8:30,02-6010-8088,Every day from 10:30am to 8:30pm,"In-store meals, No delievery"
+89,한육감 디타워점,한우# 등심# 소고기,서울특별시 종로구 청진동 249,37.57091,126.978894,Korean Beef Slices D-Tower.,Korean beef# sirloin# beef.,"249, Cheongjin-dong, Jongno-gu, Seoul, Republic of Korea",matzip105,"매장 내 식사, 배달이 안 됨",3.9,"월요일 - 토요일 오전 11:30~오후 9:00
+일요일 휴무일",02-2251-8686,"Mon. - Sat. 11:30am - 9:00pm
+Closed on Sun.","In-store meals, No delievery"
+90,대게나라,대게,서울특별시 송파구 방이동 43-7,37.5156818,127.1115053,Fresh snow crab.,Usually,"41, Ogeum-ro 11-gil, Songpa-gu, Seoul, Republic of Korea",matzip106,"매장 내 식사, 테이크아웃, 배달 서비스",3.9,"월요일 - 금요일 오전 11:30~오후 2:00, 오후 5:30~9:50
+토요일, 일요일 오후 12:00~9:40",02-412-2338,"Mon. - Fri. 11:30am - 2:00pm, 5:30pm - 9:50pm.
+Sat. and Sun. 12:00pm~9:40pm","In-store meals, To go, Delivery service"
+91,철판남,철판구이,서울특별시 종로구 자하문로1길 53,37.576909,126.969488,Iron Man by Gunson of Korea.,Grilled on a grill.,"53, Jahamun-ro 1-gil, Jongno-gu, Seoul, Republic of Korea",matzip107,"매장 내 식사, 배달이 안 됨",4.4,매일 오전 11:30~오후 10:00,070-8776-6001,Every day from 11:30am to 10:00pm,"In-store meals, No delievery"
+92,마농트로포,디저트,서울특별시 용산구 한남동 32-22,37.5767735,126.9689579,Manontropo.,Dessert,"61-1, Hannam-daero 20-gil, Yongsan-gu, Seoul, Republic of Korea",matzip108,"매장 내 식사, 테이크아웃",4.1,"월요일 - 토요일 오후 5:00~오전 12:00
+일요일 휴무일",02-794-0011,"Mon. - Sat. 5:00pm- 12:00am
+Closed on Sun.","In-store meals, To go"
+93,쿠마,회,서울특별시 영등포구 여의대방로69길 7,37.5197897,126.9311976,Kuma.,Raw fish,"7, Yeouidaebang-ro 69-gil, Yeongdeungpo-gu, Seoul, Republic of Korea",matzip109,"매장 내 식사, 테이크아웃",4,매일 오전 10:30~오후 9:00,02-2645-7222,Every day from 10:30am to 9:00pm,"In-store meals, To go"
+94,부원면옥,평양냉면,서울특별시 중구 남창동 47-10 ,37.5584185,126.9775865,Buwon Myeonok.,Pyongyang naengmyeon.,"41-6, Namdaemunsijang 4-gil, Jung-gu, Seoul, Republic of Korea",matzip110,"매장 내 식사, 배달이 안 됨",3.9,매일 오전 11:00~오후 9:30,02-753-7728,Every day from 11:00am to 9:30pm,"In-store meals, No delievery"
+95,정원순두부,순두부,서울특별시 중구 세종대로11길 30,37.5620623,126.9741805,Garden soft tofu.,soft tofu,"30, Sejong-daero 11-gil, Jung-gu, Seoul, Republic of Korea",matzip111,매장 내 식사,3.8,매일 오전 11:00~오후 8:0,02-755-7139,Every day from 11:00am to 8:00pm,In-store meals
